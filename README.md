@@ -65,8 +65,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=GabsZ15&show_icons=true&theme=radial&hide_border=true" alt="Gabriel's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GabsZ15&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=GabsZ15&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Gabriel's GitHub Stats" />
+  &nbsp;&nbsp;
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GabsZ15&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
 
 <p align="center">
