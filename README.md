@@ -56,9 +56,11 @@
 ### 📂 Other Projects
 
 - 🔒 **BarberSystem** *(Private SaaS Project)*: Private commercial barbershop scheduling SaaS application. Developed for appointment management and workflow organization.
-- 🌓 **Theme Switcher**: Interactive JavaScript web utility focused on DOM manipulation, event listeners, and dynamic light/dark theme switching.
-- 📐 **UC1_WEB**: Web development practice repository exploring semantic HTML5 structure, CSS styling, flexbox/grid layouts, and responsive design.
-- 🧠 **Programação JavaScript**: Logic & algorithms learning repository covering fundamental JS concepts, control structures, arrays, objects, functions, and CLI prompts.
+- 🌓 [Theme Switcher](https://github.com/GabsZ15/theme-switcher): Interactive JavaScript web utility focused on DOM manipulation, event listeners, and dynamic light/dark theme switching.
+- 📐 [Senac-WebDev-UC1](https://github.com/GabsZ15/Senac-WebDev-UC1): Web development practice repository exploring semantic HTML5 structure, CSS styling, flexbox/grid layouts, and responsive design.
+- 🧠 [JavaScript-Logic-Labs](https://github.com/GabsZ15/programacao.js): Logic & algorithms learning repository covering fundamental JS concepts, control structures, arrays, objects, functions, and CLI prompts.
+- 🚀 [Git-First-Steps](https://github.com/GabsZ15/Repository): Initial repository for learning Git, HTML5, and CSS3 fundamentals.
+- ⚛️ [React-Aprendizado](https://github.com/GabsZ15/React-Aprendizado): React and Vite learning repository covering fundamental concepts, component architecture, props, and state management.
 
 ---
 
