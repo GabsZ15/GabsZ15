@@ -2,6 +2,12 @@
 <h3 align="center">Aspiring Full Stack Developer | HTML, CSS, JavaScript & React</h3>
 
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+web+applications;Learning+Full+Stack+Development;Exploring+new+technologies" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
   I am a Web Development student focused on creating responsive, intuitive, and efficient web applications. Looking for <b>Web Development and Technology Internship opportunities</b> where I can apply my skills, solve real-world problems, and continue growing alongside experienced engineering teams.
 </p>
 
@@ -61,6 +67,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gabsz15&show_icons=true&theme=radial&hide_border=true" alt="Gabriel's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabsz15&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabsZ15/GabsZ15/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabsZ15/GabsZ15/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/GabsZ15/GabsZ15/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
